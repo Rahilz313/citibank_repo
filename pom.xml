@@ -7,7 +7,9 @@
   <version>1.0-SNAPSHOT</version>
   <name>01-Maven-App</name>
   <url>http://maven.apache.org</url>
+  how are you
   <dependencies>
+  
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
